@@ -6,7 +6,6 @@
 
 const loveDay = new Date("2026-06-20 00:00:00");
 
-
 function updateTimer(){
 
     const now = new Date();
